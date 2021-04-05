@@ -27,3 +27,6 @@ A:Add a Windows startup item with startup param "-auto".
   
 2:Why it always reminds me that some dlls is missing?  
 A:Please install the VC++ Redistributable Package 2010-2019.  
+
+Thirdparty API:  
+jsoncpp->https://github.com/open-source-parsers/jsoncpp  
