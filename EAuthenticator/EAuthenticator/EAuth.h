@@ -38,8 +38,8 @@ class EAuth
 private:
 
 #ifdef _DEBUG
-	CString username = "3120004100";
-	CString password = "10266118";
+	CString username = "";
+	CString password = "";
 	CString clientip = "100.2.14.179";
 	CString nasip = "119.146.175.80";
 	CString mac = "B4-2E-99-E1-2F-64";
